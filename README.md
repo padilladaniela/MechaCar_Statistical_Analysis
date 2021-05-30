@@ -33,3 +33,4 @@ The residual standard error is 8.774 which is low for the linear model with 44 d
 
 
 # Study Design: MechaCar vs Competition
+- MechaCar can be compared to a competitor on metrics like horse power as I think it's linked to the performance of the vehicle. The hypothesis couldd be easily tested as horse power can be measured. The hypothesis would be whether there is an statistical difference or no statistical difference betweem the MechaCar horse power versus the competitor.
